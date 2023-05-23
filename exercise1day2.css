@@ -1,0 +1,42 @@
+.comicContainer{
+    border:solid black;
+    height:75vh;
+    padding-bottom: 15px;
+}
+.topText{
+    border:solid white;
+    font-size:32px;
+    text-align:center;
+}
+
+.section{
+    border:solid white;
+    width: 33%;
+    margin: 6px;
+    text-align: center;
+
+
+}
+.pic{
+    border:solid black;
+    width:60%;
+    height:100%;
+}
+.miniText{
+    border:solid black;
+    margin: 1px;
+    width: 50%;
+
+}
+
+.rowOne {
+    display:flex;
+    height: 40%;
+    margin-bottom: 20px;
+}
+
+.rowTwo {
+    display: flex;
+    height: 40%;
+    margin-bottom:20px;
+}
